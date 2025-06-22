@@ -6,3 +6,6 @@ This project is a basic subscription pricing layout created using *HTML* and *CS
 - HTML5
 - CSS3 (Flexbox)
 - No frameworks or JavaScript
+##     How to view
+ - Live website
+ - Github
